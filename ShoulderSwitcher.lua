@@ -35,7 +35,7 @@ end
 -------------------------------------------------
 
 function SHOULDERSWITCH.RegisterEvents()
-
+	-- TODO: register
 end
 
 -------------------------------------------------
