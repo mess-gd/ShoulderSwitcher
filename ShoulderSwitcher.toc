@@ -1,0 +1,5 @@
+## Interface: 5875
+## Title: ShoulderSwitcher
+## Notes: Re-equips Shoulders after Death
+ShoulderSwitcher.lua
+ShoulderSwitcher.xml
